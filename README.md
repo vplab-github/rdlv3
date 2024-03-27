@@ -5,7 +5,8 @@ This repo contains code for training and testing of Cell Segmenation Algorithm. 
 
 ### Steps to Run
 1. Clone the Repo
-2. Install all the required python3 packages using
+2. Make the virtual enviornment with python 3.9 version
+3. Install all the required python3 packages using
 ```
 pip3 install -r requirements.txt
 ```
